@@ -1,9 +1,8 @@
-# Progra-II <table>
+<table>
 <tr>
 <td width="220">
 
-<img src="AC143FDD-244E-4573-B02D-34255ECE403F_1_102_a.jpeg
-" width="200">
+<img src="./AC143FDD-244E-4573-B02D-34255ECE403F_1_102_a.jpeg" width="200">
 
 </td>
 
